@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+canvas {
+    widows: 100%;
+    height: 100%;
+    background-color: rgba(10, 180, 10, 0.521);
+}
